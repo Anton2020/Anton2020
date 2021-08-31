@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Ewout
-- 👀 I’m interested in developing desktop & mobile applications.
+- 👋 Hi, I’m Ewout. I’m interested in developing desktop & mobile applications.
 - 🌱 I’m currently learning Java (specifically basics, Java FX and Spring Boot), JS and SQL.
-- 💞️ I’m looking to collaborate on nothing at the moment, but plenty once I've increased my JS skills.
 - 📫 How to reach me: lagendijkict@gmail.com
 
 <!---
