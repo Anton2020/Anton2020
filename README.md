@@ -1,6 +1,6 @@
 # My Readme, thank you for reading
 - 👋 Hi, I’m Ewout. I’m interested in developing desktop & mobile applications.
-- 🌱 I’m currently learning Java (specifically basics, Java FX and Spring Boot), JS and SQL.
+- 🌱 I’m currently learning Java basics (studying for OCA version 8), JS and SQL.
 - 📫 How to reach me: lagendijkict@gmail.com
 
 <!---
