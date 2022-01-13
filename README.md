@@ -1,6 +1,6 @@
 # My Readme, thank you for reading
 - 👋 Hi, I’m Ewout. I’m interested in learning Python, Power BI and Excel.
-- 🌱 Other technologies I use are Java and SQL.
+- 🌱 Other technologies I use are Java and SQL. I'm enthusiastic about teaching beginners on Discord by assisting their troubleshooting.
 - 📫 How to reach me: lagendijkict@gmail.com
 
 <!---
