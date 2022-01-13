@@ -1,6 +1,6 @@
 # My Readme, thank you for reading
-- 👋 Hi, I’m Ewout. I’m interested in developing desktop & mobile applications.
-- 🌱 I’m currently learning Java basics (studying for OCA version 8), JS and SQL.
+- 👋 Hi, I’m Ewout. I’m interested in learning Python, Power BI and Excel.
+- 🌱 Other technologies I use are Java and SQL.
 - 📫 How to reach me: lagendijkict@gmail.com
 
 <!---
