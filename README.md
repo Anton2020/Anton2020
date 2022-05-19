@@ -9,7 +9,7 @@ Hope you'll have a nice day
 ## 谢谢你的时间
 
 - 👋 你好, 我叫 Ewout. 我对Python，Power BI 还有 Excel 很有兴趣。
-- 🌱 我非常喜欢给 [Discord](https://discord.com/channels/267624335836053506/@home){:target="_blank"}
+- 🌱 我非常喜欢给 [Discord](https://discord.com/channels/267624335836053506/@home)
 - 📫 随便发我电子邮件：[lagendijkict@gmail.com](mailto:lagendijkict@gmail.com)
 
 拜拜，回头见
